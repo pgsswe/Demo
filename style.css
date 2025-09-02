@@ -17,6 +17,14 @@ body{
     background-size: cover; 
     background-position: center; 
 }
+
+div.top{
+    display:flex;
+    justify-content: center;
+}
+
+
+
 div.one{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;

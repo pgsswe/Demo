@@ -21,10 +21,12 @@ body{
 div.top{
     display:flex;
     justify-content: center;
+    text-align: center;
 }
 .h1{
     display:flex;
     justify-content: center;
+    text-align: center;
 }
 
 

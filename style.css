@@ -23,6 +23,7 @@ div.top{
     justify-content: center;
     text-align: center;
 }
+
 .h1{
     display:flex;
     justify-content: center;
@@ -34,7 +35,7 @@ div.one{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -42,7 +43,7 @@ div.two{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -50,7 +51,7 @@ div.three{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -58,7 +59,7 @@ div.four{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -67,7 +68,7 @@ div.five{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -75,7 +76,7 @@ div.six{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -83,7 +84,7 @@ div.seven{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -91,7 +92,7 @@ div.eight{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -99,7 +100,7 @@ div.nine{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }
@@ -107,7 +108,7 @@ div.ten{
     background: rgb( 0, 0, 0, 0,6);
     padding: 10px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 7px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border: 1px solid rgba(0,0,0,0.5);
 }

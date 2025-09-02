@@ -1,18 +1,100 @@
 *{
     padding: 1px;
-    margin: 1px;
+    margin: 1divpx;
     box-sizing: border-box;
 
 }
 body{
+    height: 100dvh;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
+    color: #fbfbfb;
     background-color: #fff;
     padding: 10px;
     background-image: url("images 2.jpg");
     background-repeat: repeat; 
     background-size: cover; 
     background-position: center; 
+}
+div.one{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.two{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.three{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.four{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+
+div.five{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.six{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.seven{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.eight{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.nine{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
+}
+div.ten{
+    background: rgb( 0, 0, 0, 0,6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid rgba(0,0,0,0.5);
 }
